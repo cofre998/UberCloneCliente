@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "865861642134",
+    "firebase_url": "https://my-first-project-uberclone-default-rtdb.firebaseio.com",
+    "project_id": "my-first-project-uberclone",
+    "storage_bucket": "my-first-project-uberclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865861642134:android:376ac4e5d2cf7d35825fb7",
+        "android_client_info": {
+          "package_name": "com.optic.uberclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3IHAAYqBcCZUt8cQZi0sy9fePRKtrayE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
